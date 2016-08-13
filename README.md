@@ -2,6 +2,9 @@
 
 This template works as a simple, one-page, clean academic website. Ready to use for everyone knowing close to nothing about HTML and CSS.    
 
+See here for a working example: http://cess.nyu.edu/perego/.
+
+
 The template  is a (heavly) edited version of a Start Bootstrap template, available here https://github.com/blackrockdigital/startbootstrap-grayscale/. All merits go to https://github.com/davidtmiller.
 
 
