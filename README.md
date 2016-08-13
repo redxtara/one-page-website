@@ -2,7 +2,7 @@
 
 This template works as a simple, one-page, clean academic website. Ready to use for everyone knowing close to nothing about HTML and CSS.    
 
-[See here for a working example](http://htmlpreview.github.io/?https://github.com/jperego/one-page-website/blob/master/index.html).
+Click[here](http://cess.nyu.edu/perego/) to see a working example
  
 
 
