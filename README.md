@@ -14,7 +14,7 @@ The template  is a (heavly) edited version of a Start Bootstrap template, availa
 Download folder and upload it to your server. Edit index.hmtl for changing content and css/style.css for changing apparences. 
 
 
-If you have now previous knowledge about HTML and CSS you may one to spend a hour of your time reading this http://www.w3schools.com/html/ and this http://www.w3schools.com/css/default.asp
+If you have no previous knowledge of HTML and CSS you may want to quickly skim through this http://www.w3schools.com/html/ and this http://www.w3schools.com/css/default.asp
 
 
 ## Copyright and License
