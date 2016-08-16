@@ -2,7 +2,7 @@
 
 This template works as a simple, one-page, clean academic website. Ready to use for everyone knowing close to nothing about HTML and CSS.    
 
-Click [here](http://cess.nyu.edu/perego/) to see a working example
+Click [here](http://cess.nyu.edu/perego/one-page-website/index.html) to see a sample.
  
 
 
