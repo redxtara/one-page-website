@@ -1,4 +1,4 @@
-# Template for Academic Website
+# Template for an Academic Website
 
 This template works as a simple, one-page, clean academic website. Ready to use for everyone knowing close to nothing about HTML and CSS.    
 
