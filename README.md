@@ -6,7 +6,7 @@ Click [here](http://cess.nyu.edu/perego/) to see a working example
  
 
 
-The template  is a (heavly) edited version of a Start Bootstrap template, available here https://github.com/blackrockdigital/startbootstrap-grayscale/. All merits go to https://github.com/davidtmiller.
+The template  is a heavly edited version of a Start Bootstrap template, available here https://github.com/blackrockdigital/startbootstrap-grayscale/. All merits go to https://github.com/davidtmiller.
 
 
 ## Getting Started
