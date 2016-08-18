@@ -1,6 +1,6 @@
 # Template for an Academic Website
 
-This template works as a simple, one-page, clean academic website. Ready to use for everyone knowing close to nothing about HTML and CSS.    
+This template works as a simple, one-page,  academic website. Ready to use for everyone knowing close to nothing about HTML and CSS.    
 
 Click [here](http://cess.nyu.edu/perego/one-page-website/index.html) to see a sample.
  
